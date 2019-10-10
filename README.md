@@ -1,4 +1,4 @@
-# MCOC-Proyecto-2--Entrega-4-
+# MCOC-Proyecto-2-Entrega-4-
 
 ## Especificaciones del computador 
 - Windows 10
