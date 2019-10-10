@@ -18,6 +18,9 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo para cad
 ### Gráfico para una partícula
 ![Gráfico_1_partícula](https://user-images.githubusercontent.com/53578787/66603805-4f963d00-eb83-11e9-9b9f-c8b5acc223f6.png)
 - 2 particulas: 1.5 segundos
+### Gráfico dos partículas
+![Gráfico_2_partículas](https://user-images.githubusercontent.com/53578787/66604298-448fdc80-eb84-11e9-86b6-c6a4dc0908d6.png)
+
 - 3 particulas: 2.1 segundos
 - 4 particulas: 3.1 segundos
 - 5 particulas: 5.9 segundos
