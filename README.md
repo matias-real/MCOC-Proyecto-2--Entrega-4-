@@ -43,7 +43,7 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo que demo
 ![Gráfico_10_partículas](https://user-images.githubusercontent.com/53578787/66606170-ee249d00-eb87-11e9-964c-035a73ec3b4f.png)
 
 ## Resultados
-Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la vertical.
+Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical.
 
 Cuando las curvas se intersectan, no significa que se produjo un choque entre las partículas, ya que los gráficos muestran la trayectoria de las partículas a través del tiempo por lo que cuando dos curvas (o más) se intersectan, significa que las partículas pasaron por esa ubicación pero en distintos instantes de tiempo.
 
