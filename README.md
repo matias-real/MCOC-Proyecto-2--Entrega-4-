@@ -12,7 +12,7 @@
 
 ## Tiempos de procesamiento dependiendo del numero de particulas
 
-Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo para cada cantidad de partículas y se sacó un promedio, los cuáles se presentan a continuación:
+Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo que demoraba en correr el código para cada cantidad de partículas y se sacó un promedio. Los resultados se presentan a continuación junto con los gráficos para cada situación:
 
 - ### 1 particula: 1.3 segundos
 #### Gráfico para 1 partícula
@@ -41,3 +41,6 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo para cad
 - ### 10 particulas: 85.9 segundos
 #### Gráfico para 10 partículas
 ![Gráfico_10_partículas](https://user-images.githubusercontent.com/53578787/66606170-ee249d00-eb87-11e9-964c-035a73ec3b4f.png)
+
+## Mejoras 
+A pesar de que los tiempos de funcionamiento no son lentos, se podría mejorar el código utilizando una librería más adecuada para trabajar con la simulación en cuestión. Otra forma de mejorar el funcionamiento sería a través de un mejor conocimiento 
