@@ -26,7 +26,15 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo para cad
 #### Gráfico para tres partículas
 ![Gráfico_3_partículas](https://user-images.githubusercontent.com/53578787/66605484-96d1fd00-eb86-11e9-9b26-403c63fb17b0.png)
 
-- 4 particulas: 3.1 segundos
-- 5 particulas: 5.9 segundos
-- 8 particulas: 18.6 segundos
-- 10 particulas: 85.9 segundos
+- ### 4 particulas: 3.1 segundos
+#### Gráfico para cuatro partículas
+![Gráfico_4_partículas](https://user-images.githubusercontent.com/53578787/66605760-0e079100-eb87-11e9-94fa-a999c8c13b87.png)
+
+- ### 5 particulas: 5.9 segundos
+
+
+
+- ### 8 particulas: 18.6 segundos
+
+
+- ### 10 particulas: 85.9 segundos
