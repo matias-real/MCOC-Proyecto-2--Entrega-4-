@@ -42,5 +42,4 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo que demo
 #### Gráfico para 10 partículas
 ![Gráfico_10_partículas](https://user-images.githubusercontent.com/53578787/66606170-ee249d00-eb87-11e9-964c-035a73ec3b4f.png)
 
-## Mejoras 
-A pesar de que los tiempos de funcionamiento no son lentos, se podría mejorar el código utilizando una librería más adecuada para trabajar con la simulación en cuestión. Otra forma de mejorar el funcionamiento sería a través de un mejor conocimiento 
+
