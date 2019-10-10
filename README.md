@@ -50,4 +50,10 @@ Cuando las curvas se intersectan, no significa que se produjo un choque entre la
 Para poder notar si es que se produjo un choque entre partículas, se debe observar si hubo un cambio abrupto en la curva de alguna de las partículas, ya que esto significa que algo interrumpió su trayectoria, y según lo implementado en el código sólo podría ser otra partícula. 
 
 Los resultados obtenidos no son semejantes a la realidad, ya que para la implementación sólo se consideraron las siguientes fuerzas:
-
+- Fuerza de arrastre (drag).
+- Fuerza de sustentación (lift).
+- Fuerza de gravedad (peso).
+En la realidad estas no son las únicas fuerzas que afectan el movimiento de las partículas en un fluido (también influyen la fuerza Basset, Magnus y la fuerza de masa virtual).
+Otros factores que afecta al realismo de los resultados son:
+- Asumir que todas las partículas son esféricas y de iguaol radio.
+- Para el rebote contra el suelo se utilizó el k_penal (valor que fue inventado).
