@@ -16,7 +16,7 @@ Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo que demo
 
 
 ## Resultados
-Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical.
+Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
 
 Cuando las curvas se intersectan, no significa que se produjo un choque entre las partículas, ya que los gráficos muestran la trayectoria a través del tiempo por lo que cuando dos curvas (o más) se intersectan, significa que las partículas pasaron por ese punto pero en distintos instantes de tiempo.
 
@@ -29,8 +29,9 @@ Los resultados obtenidos no son semejantes a la realidad, ya que para la impleme
 
 En la realidad estas no son las únicas fuerzas que afectan el movimiento de las partículas en un fluido (también influyen la fuerza Basset, Magnus y la fuerza de masa virtual).
 Otros factores que afectan al realismo de los resultados son:
-- Asumir que todas las partículas son esféricas y de iguaol radio.
-- Para el rebote contra el suelo se utilizó el k_penal (valor que fue inventado).
-- Sólo se consideraron dos dimensiones para modelar el movimiento de las partículas.
+- Asumir que todas las partículas son esféricas y de igual radio.
+- Utilizar el k_penal (valor que fue inventado) para simular rebote contra el suelo.
+- Asumir que el suelo es una cama de partículas equiespaciadas.
+- Considerar sólo dos dimensiones para modelar el movimiento de las partículas.
 
-Todos estos supuestos se hicieron para poder simplificar la implementación del código, algo que es muy común en el ámbito de la ingeniería ya que a veces simplificando un poco el problema se obtienen resultados que no estan tan alejados de la realidad.
+Todos estos supuestos se hicieron para poder simplificar la implementación del código, algo que es muy común en el ámbito de la ingeniería ya que a veces simplificando el problema se obtienen resultados que no estan tan alejados de la realidad.
