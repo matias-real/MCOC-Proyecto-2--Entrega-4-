@@ -58,5 +58,6 @@ En la realidad estas no son las únicas fuerzas que afectan el movimiento de las
 Otros factores que afectan al realismo de los resultados son:
 - Asumir que todas las partículas son esféricas y de iguaol radio.
 - Para el rebote contra el suelo se utilizó el k_penal (valor que fue inventado).
+- Sólo se consideraron dos dimensiones para modelar el movimiento de las partículas.
 
 Todos estos supuestos se hicieron para poder simplificar la implementación del código, algo que es muy común en el ámbito de la ingeniería ya que a veces simplificando un poco el problema se obtienen resultados que no estan tan alejados de la realidad.
