@@ -12,10 +12,15 @@
 
 ## Tiempos de procesamiento dependiendo del número de partículas
 
-Para calcular los tiempos de funcionamiento se midió 3 veces el tiempo que demoraba en correr el código para cada cantidad de partículas y se sacó un promedio. Los resultados se presentan a continuación junto con los gráficos para cada situación:
+El funcionamiento del código fue probado para la simulación de:
+- 2 partículas.
+- 5 partículas.
+- 10 partículas.
+- 20 partículas.
+Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la finalidad de comparar el funcionamiento del código de los alumnos, en sus respectivos computadores, con el del profesor, en su propio computador. A continuación, se presentan los gráficos y tiempos de funcionamiento para cada uno de los casos:
 
 
-## Resultados
+## Interpretación de los Resultados
 Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
 
 Cuando las curvas se intersectan, no significa que se produjo un choque entre las partículas, ya que los gráficos muestran la trayectoria a través del tiempo por lo que cuando dos curvas (o más) se intersectan, significa que las partículas pasaron por ese punto pero en distintos instantes de tiempo.
