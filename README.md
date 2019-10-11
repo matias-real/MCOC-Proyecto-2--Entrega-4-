@@ -55,7 +55,7 @@ Los resultados obtenidos no son semejantes a la realidad, ya que para la impleme
 - Fuerza de gravedad (peso).
 
 En la realidad estas no son las únicas fuerzas que afectan el movimiento de las partículas en un fluido (también influyen la fuerza Basset, Magnus y la fuerza de masa virtual).
-Otros factores que afecta al realismo de los resultados son:
+Otros factores que afectan al realismo de los resultados son:
 - Asumir que todas las partículas son esféricas y de iguaol radio.
 - Para el rebote contra el suelo se utilizó el k_penal (valor que fue inventado).
 
