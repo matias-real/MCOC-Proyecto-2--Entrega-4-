@@ -53,13 +53,14 @@ Cuando se realizó la simulación para el caso en que eran 20 partículas, se de
 ![particle_trajectories](https://user-images.githubusercontent.com/53578787/66691641-2ef6e180-ec6e-11e9-979d-e9c80a51ac5b.png)
 
 
-
 ## Interpretación de los Resultados
 Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
 
 Cuando las curvas se intersectan, no significa que se produjo un choque entre las partículas, ya que los gráficos muestran la trayectoria a través del tiempo por lo que cuando dos curvas (o más) se intersectan, significa que las partículas pasaron por ese punto pero en distintos instantes de tiempo.
 
 Para poder notar si es que se produjo un choque entre partículas, se debe observar si hubo un cambio abrupto en la curva de alguna de las partículas, ya que esto significa que algo interrumpió su trayectoria, y según lo implementado en el código sólo podría ser otra partícula. 
+
+Se puede apreciar que para bajos números de partículas 
 
 Los resultados obtenidos no son semejantes a la realidad, ya que para la implementación sólo se consideraron las siguientes fuerzas:
 - Fuerza de arrastre (drag).
