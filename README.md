@@ -59,7 +59,7 @@ Los gráficos previamente presentados representan el recorrido de cada una de la
 
 Cuando las curvas se intersectan, no significa que se produjo un choque entre las partículas, ya que los gráficos muestran la trayectoria a través del tiempo por lo que cuando dos curvas (o más) se intersectan, significa que las partículas pasaron por ese punto pero en distintos instantes de tiempo.
 
-Para poder notar si es que se produjo un choque entre partículas, se debe observar si hubo un cambio abrupto en la curva de alguna de las partículas, ya que esto significa que algo interrumpió su trayectoria, y según lo implementado en el código sólo podría ser otra partícula. 
+Para poder notar si es que se produjo un choque entre partículas, se debe observar si hubo un cambio abrupto en la curva de alguna de ellas, ya que esto significa que algo interrumpió su trayectoria, y según lo implementado en el código sólo podría ser otra partícula. 
 
 Se puede apreciar que para las simulaciones con 2 y 5 partículas los resultados del alumno fueron obtenidos con mayor rapidez. No así el caso para las simulaciones con 10 partículas ya que se obtuvieron considerablemente más rapido los resultados del profesor. Con esto se podría decir que para grandes números de partículas el código del alumno no funciona de la mejor manera, de hecho para 20 partículas no se obtuvieron resultados en el caso del alumno.
 
