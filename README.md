@@ -19,6 +19,17 @@ El funcionamiento del código fue probado para la simulación de:
 - 20 partículas.
 Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la finalidad de comparar el funcionamiento del código de los alumnos, en sus respectivos computadores, con el del profesor, en su propio computador. A continuación, se presentan los gráficos y tiempos de funcionamiento para cada uno de los casos:
 
+### 2 partículas ------> 7,98 segundos.
+#### Gráfico de recorrido para 2 partículas.
+
+### 5 partículas ------> 63, 59 segundos.
+#### Gráfico de recorrido para 5 partículas.
+
+### 10 partículas ------> 681 segundos.
+#### Gráfico de recorrido para 10 partículas
+
+Cuando se realizó la simulación para el caso en que eran 20 partículas, se dejó corriendo el código por mas de una hora y media y no entregó resultados, por lo que no se presentan los resultados para esa simulación.
+
 
 ## Interpretación de los Resultados
 Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
