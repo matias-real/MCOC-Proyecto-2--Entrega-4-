@@ -17,6 +17,7 @@ El funcionamiento del código fue probado para la simulación de:
 - 5 partículas.
 - 10 partículas.
 - 20 partículas.
+
 Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la finalidad de comparar el funcionamiento del código de los alumnos, en sus respectivos computadores, con el del profesor, en su propio computador. A continuación, se presentan los gráficos y tiempos de funcionamiento para cada uno de los casos:
 
 ### 2 partículas ------> 7,98 segundos.
