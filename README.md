@@ -27,7 +27,7 @@ Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la 
 #### Gráfico de recorrido para 5 partículas.
 ![Gráfico_5_Partículas](https://user-images.githubusercontent.com/53578787/66691264-70d25880-ec6b-11e9-8c88-1722f808cd7d.png)
 
-### 10 partículas ------> 681 segundos.
+### 10 partículas ------> 681.0 segundos.
 #### Gráfico de recorrido para 10 partículas.
 ![Gráfico_10_Partículas](https://user-images.githubusercontent.com/53578787/66691260-6b750e00-ec6b-11e9-940a-548f9b480400.png)
 
@@ -35,14 +35,18 @@ Cuando se realizó la simulación para el caso en que eran 20 partículas, se de
 
 ## Resultados obtenidos por el profesor.
 
-### 2 partículas ------>
+### 2 partículas ------> 44.1 segundos
 #### Gráfico de recorrido para 2 partículas.
 
-### 5 partículas ------>
+### 5 partículas ------> 115.1 segundos
 #### Gráfico de recorrido para 5 partículas.
 
-### 10 partículas ------>
+### 10 partículas ------> 251.5 segundos
 #### Gráfico de recorrido para 10 partículas.
+
+### 20 partículas ------> 477.0 segundos
+#### Gráfico de recorrido para 20 partículas.
+
 
 ## Interpretación de los Resultados
 Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
