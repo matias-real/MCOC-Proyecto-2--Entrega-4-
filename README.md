@@ -10,7 +10,7 @@
 - Memoria Instalada (RAM): 6,00 GB
 - Tipo de sistema: Sistema Operativo de 64 bits, procesador x64
 
-## Tiempos de procesamiento dependiendo del número de partículas
+## Tiempos de funcionamiento del código (en el computador del alumno)
 
 El funcionamiento del código fue probado para la simulación de:
 - 2 partículas.
@@ -33,7 +33,7 @@ Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la 
 
 Cuando se realizó la simulación para el caso en que eran 20 partículas, se dejó corriendo el código por mas de una hora y media y no entregó resultados, por lo que no se presentan los resultados para esa simulación.
 
-## Resultados obtenidos por el profesor.
+## Tiempos de funcionamiento del código del profesor (en su propio computador)
 
 ### 2 partículas ------> 44.1 segundos
 #### Gráfico de recorrido para 2 partículas.
@@ -60,7 +60,7 @@ Cuando las curvas se intersectan, no significa que se produjo un choque entre la
 
 Para poder notar si es que se produjo un choque entre partículas, se debe observar si hubo un cambio abrupto en la curva de alguna de las partículas, ya que esto significa que algo interrumpió su trayectoria, y según lo implementado en el código sólo podría ser otra partícula. 
 
-Se puede apreciar que para bajos números de partículas 
+Se puede apreciar que para las simulaciones con 2 y 5 partículas los resultados del alumno fueron obtenidos con mayor rapidez. No así el caso para las simulaciones con 10 ya que se obtuvieron considerablemente más rapido los resultados del profesor. Con esto se podría decir que para grandes números de partículas, el código no funciona de la mejor manera, de hecho para 20 partículas no se obtuvieron resultados en el caso del alumno.
 
 Los resultados obtenidos no son semejantes a la realidad, ya que para la implementación sólo se consideraron las siguientes fuerzas:
 - Fuerza de arrastre (drag).
