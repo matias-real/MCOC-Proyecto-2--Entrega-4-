@@ -50,6 +50,8 @@ Cuando se realizó la simulación para el caso en que eran 20 partículas, se de
 
 ### 20 partículas ------> 477.0 segundos
 #### Gráfico de recorrido para 20 partículas.
+![particle_trajectories](https://user-images.githubusercontent.com/53578787/66691641-2ef6e180-ec6e-11e9-979d-e9c80a51ac5b.png)
+
 
 
 ## Interpretación de los Resultados
