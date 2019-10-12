@@ -58,7 +58,7 @@ Cuando se realizó la simulación para el caso en que eran 20 partículas, se de
 ![particle_trajectories](https://user-images.githubusercontent.com/53578787/66691641-2ef6e180-ec6e-11e9-979d-e9c80a51ac5b.png)
 
 #### Gráfico de tiempos de funcionamiento (profesor)
-![Gráfico de tiempos de funcionamiento (profesor)](https://user-images.githubusercontent.com/53578787/66692306-80559f80-ec73-11e9-9fbb-89e493fbd650.PNG)
+![Gráfico de tiempos de funcionamiento (profesor)](https://user-images.githubusercontent.com/53578787/66692329-c7439500-ec73-11e9-87b3-9593bd467291.PNG)
 
 ## Interpretación de los Resultados
 Los gráficos previamente presentados representan el recorrido de cada una de las partículas. El eje "x" representa la distancia que recorre horizontalmente la párticula y el eje "y" la distancia vertical. También se presenta el gráfico de la variación del tiempo de funcionamiento del código de acuerdo a la cantidad de partículas simuladas.
