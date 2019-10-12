@@ -34,6 +34,10 @@ Estas fueron las mismas cantidades que probó el profesor y esto se hizo con la 
 
 Cuando se realizó la simulación para el caso en que eran 20 partículas, se dejó corriendo el código por mas de una hora y media y no entregó resultados, por lo que no se presentan los resultados para esa simulación.
 
+#### Gráfico de tiempos de funcionamiento (alumno)
+![Gráfico tiempos de funcionamiento](https://user-images.githubusercontent.com/53578787/66692218-a3cc1a80-ec72-11e9-8011-f57d48d5dd70.PNG)
+
+
 ## Tiempos de funcionamiento del código del profesor (en su propio computador)
 
 ### 2 partículas ------> 44.1 segundos
