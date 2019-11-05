@@ -82,3 +82,5 @@ Otros factores que afectan al realismo de los resultados son:
 - Considerar sólo dos dimensiones para modelar el movimiento de las partículas.
 
 Todos estos supuestos se hicieron para poder simplificar la implementación del código, algo que es muy común en el ámbito de la ingeniería ya que a veces simplificando el problema se obtienen resultados que no estan tan alejados de la realidad.
+
+## Entrega 6 Mejorada
